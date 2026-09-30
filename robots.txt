@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dystymis.github.io/dacha-sad-ogorod/sitemap.xml
