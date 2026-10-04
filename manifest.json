@@ -1,0 +1,35 @@
+{
+  "name": "Дача, сад и огород",
+  "short_name": "Дача",
+  "description": "Советы для дачников: хранение урожая до весны, обрезка и укрытие кустов, уход за садом по месяцам, таблицы совместимости культур, сроки посева и подкормок.",
+  "start_url": "/dacha-sad-ogorod/",
+  "scope": "/dacha-sad-ogorod/",
+  "display": "standalone",
+  "background_color": "#f5f1e6",
+  "theme_color": "#5c7a2a",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/dacha-sad-ogorod/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dacha-sad-ogorod/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/dacha-sad-ogorod/assets/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "lifestyle",
+    "garden"
+  ]
+}
